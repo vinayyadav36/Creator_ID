@@ -1,0 +1,6 @@
+{
+  "$schema_version": "1.0.0",
+  "last_migration_applied": "baseline-1",
+  "tenant_id": "ten_aurajam_001",
+  "events": []
+}

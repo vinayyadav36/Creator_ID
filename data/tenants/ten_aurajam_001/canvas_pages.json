@@ -1,0 +1,43 @@
+{
+  "$schema_version": "1.2.0",
+  "last_migration_applied": "baseline-1",
+  "tenant_id": "ten_aurajam_001",
+  "canvas_layouts": [
+    {
+      "page_id": "page_root_index",
+      "is_active": true,
+      "seo_metadata": {
+        "title": "Alex Jordan | Design Hub",
+        "description": "Personal product design portfolio hub."
+      },
+      "blocks": [
+        {
+          "id": "blk_hero_991",
+          "type": "profile_hero",
+          "payload": {
+            "display_name": "Alex Jordan",
+            "avatar_image_path": "",
+            "tagline": "Product Strategist & Monolith Architect"
+          }
+        },
+        {
+          "id": "blk_link_223",
+          "type": "link_action",
+          "payload": {
+            "button_label": "Read Technical Blog",
+            "target_url": "https://alexjordan.design",
+            "display_icon_marker": "newsletter-icon"
+          }
+        },
+        {
+          "id": "blk_snip_554",
+          "type": "rich_snippet",
+          "payload": {
+            "title": "Latest Focus",
+            "body": "Building modular monolith systems with JSON-native publishing workflows."
+          }
+        }
+      ]
+    }
+  ]
+}

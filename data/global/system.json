@@ -1,0 +1,11 @@
+{
+  "$schema_version": "1.0.0",
+  "last_migration_applied": "baseline-1",
+  "users": [
+    {
+      "account_email": "superadmin@saltedhash.local",
+      "security_hash": "scrypt$16384$8$1$5e59907a143e36e37f3f6de608d4c4f4$f3138cf034bb278c054e0c3285e02487fb5b5d2acc5b81dba716f91089346705dc9b2cc3c11415e49ebb12fe20b79aa2595f090005e5e86573295aa1df89d037",
+      "account_role": "super-admin"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "$schema_version": "1.0.0",
+  "last_migration_applied": "baseline-1",
+  "apps": [
+    {
+      "sku": "aurajam",
+      "name": "Aurajam",
+      "enabled": true,
+      "theme_presets": ["light", "dark", "high-contrast-minimal"],
+      "modules": [
+        "identity",
+        "public_page_builder",
+        "theme_template_engine",
+        "post_snippet_publishing",
+        "media_metadata",
+        "mood_vibe_tagging",
+        "link_blocks",
+        "testimonials_projects",
+        "personal_brand_settings",
+        "sharing_export",
+        "page_analytics",
+        "custom_url_slug",
+        "creator_admin_dashboard"
+      ]
+    }
+  ]
+}
