@@ -1,0 +1,11 @@
+{
+  "$schema_version": "1.0.0",
+  "last_migration_applied": "baseline-1",
+  "slugs": [
+    {
+      "slug": "alexjordan",
+      "tenant_id": "ten_aurajam_001",
+      "sku": "aurajam"
+    }
+  ]
+}

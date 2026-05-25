@@ -1,0 +1,20 @@
+{
+  "$schema_version": "1.0.0",
+  "last_migration_applied": "baseline-1",
+  "tenant_id": "ten_aurajam_001",
+  "auth_profile": {
+    "account_email": "creator@aurajam.io",
+    "security_hash": "scrypt$16384$8$1$49d9c8fb5dc6103b30a117988ba9e47d$771f6e2b464ae7da32fd149bd09cf20bb9728bc61d1aea066c28c844ba0b57e057c7806cb4842d0238aba78faae68bededd7e981cc83a3ba3573c72e485d1c91",
+    "account_role": "creator-admin"
+  },
+  "entitlements": {
+    "assigned_sku": "aurajam",
+    "subscription_tier": "premium",
+    "modules_enabled": [
+      "identity",
+      "public_page_builder",
+      "page_analytics",
+      "custom_url_slug"
+    ]
+  }
+}

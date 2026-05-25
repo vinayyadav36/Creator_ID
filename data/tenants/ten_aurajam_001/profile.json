@@ -1,0 +1,20 @@
+{
+  "$schema_version": "1.0.0",
+  "last_migration_applied": "baseline-1",
+  "tenant_id": "ten_aurajam_001",
+  "routing": {
+    "primary_slug": "alexjordan",
+    "custom_root_domain": "alexjordan.design"
+  },
+  "branding_tokens": {
+    "chosen_theme_id": "vibe_dark_minimal",
+    "bg_color": "#0d0f12",
+    "text_color": "#f3f4f6",
+    "font_stack": "Inter, system-ui, sans-serif"
+  },
+  "vibe_context": {
+    "active_mood_label": "Deep Focus",
+    "status_message": "Building things with minimalist tech architecture stacks.",
+    "ambient_audio_url": ""
+  }
+}
